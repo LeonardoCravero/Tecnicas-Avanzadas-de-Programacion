@@ -1,0 +1,6 @@
+Modelo\Productos.class
+com\tecnicas\trabajo_final\JakartaRestConfiguration.class
+Modelo\ProductosDao.class
+Config\Conexion.class
+Controlador\Controlador.class
+com\tecnicas\trabajo_final\resources\JakartaEE11Resource.class

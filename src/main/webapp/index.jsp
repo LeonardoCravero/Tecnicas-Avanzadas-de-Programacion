@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="./CSS/Estilos.css"/>
     </head>
     <body>
-        <!<!-- Redireccionamiento para Listar Productos -->
+        <!-- Redireccionamiento para Listar Productos -->
         <c:if test="${empty lista}">
             <c:redirect url="Controlador?accion=listar"/>
         </c:if>
